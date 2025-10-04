@@ -1,4 +1,3 @@
-# BoundedChannelDemo  
 
 A demo project showcasing **.NET Channels** and how to use **bounded channels** to handle background jobs with built-in *backpressure*.  
 
