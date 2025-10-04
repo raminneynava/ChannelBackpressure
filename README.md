@@ -9,7 +9,7 @@ A demo project showcasing **.NET Channels** and how to use **bounded channels** 
 
 ## 📂 Project Structure
 ```
-BoundedChannelDemo/
+ChannelBackpressure/
  ├─ Program.cs
  ├─ WorkItem.cs
  ├─ WorkQueueService.cs
